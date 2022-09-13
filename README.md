@@ -1,1 +1,1 @@
-TinDog a Startup Landing Page
+TinDog A Startup Landing Page
