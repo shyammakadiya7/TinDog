@@ -1,1 +1,1 @@
-TinDog Files
+TinDog a Startup Landing Page
